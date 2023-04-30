@@ -1,0 +1,1 @@
+{"name": "test_failed_login", "status": "passed", "start": 1682867291588, "stop": 1682867291588, "uuid": "d113daa6-d451-4806-8558-3767811a33af", "historyId": "92ce9ff9170775259ac6a3ea6ba7b4ab", "testCaseId": "dca1f2e68a7c4711842815985b79db2f", "fullName": "tests.ui_tests.test_login_page#test_failed_login"}

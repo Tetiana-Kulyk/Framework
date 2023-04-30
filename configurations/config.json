@@ -1,0 +1,13 @@
+{
+ "app_url": "https://makeup.com.ua/ua/",
+  "email": "tatiana.kulik1998@gmail.com",
+  "password": "gloria2130",
+  "browser_id": 1,
+  "base_api_url": "https://anapioficeandfire.com/api",
+  "db_user": "postgres",
+  "db_password": "322",
+  "host": "127.0.0.1",
+  "port": "5432",
+  "db_name": "store"
+
+}
