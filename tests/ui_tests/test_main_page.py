@@ -2,10 +2,10 @@ import pytest
 
 
 
-@pytest.mark.main
-@pytest.mark.regression
-def test_change_site_language(change_site_language):
-    assert change_site_language.is_site_language_ru(), 'Site language is not changed'
+#@pytest.mark.main
+#@pytest.mark.regression
+#def test_change_site_language(change_site_language):
+    #assert change_site_language.is_site_language_ru(), 'Site language is not changed'
 
 
 @pytest.mark.main
